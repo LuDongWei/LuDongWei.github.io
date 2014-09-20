@@ -1,0 +1,24 @@
+<footer class="bg-foot">
+        <div class="f-content">
+          <div class="f-thank">
+              感谢：
+              <a href="#" target="_blank">Sublime</a>|
+              <a href="#" target="_blank">Chrome</a>|
+              <a href="#" target="_blank">Github</a>|
+              <a href="#" target="_blank">Jquery</a>|
+              <a href="#" target="_blank">Seajs</a>
+          </div>
+          <div class="f-contact">
+              联系方式|
+              <a href="mailto:parkerzhou2010@gmail.com">gmail</a>
+          </div>
+        </div>   
+    </footer>
+
+<script type="text/javascript">
+seajs.use("jquery",function($){
+      $("#minBlog").click(function(){
+         $("#minLoc").slideToggle("slow");
+      })
+})
+</script>

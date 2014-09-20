@@ -1,0 +1,23 @@
+{% include blog_home %}
+	   <div class="bg-content">
+          {% if page.isHome  %}
+              {{ content }} 
+          {% else %}
+              {% include blog_posts %}
+          {% endif %}     
+         <div class="bg-comment">  
+  	       <h1>最新评论</h1>
+             <section>
+               <div id="disqus_thread"></div>
+             </section>
+         </div>  
+	   </div>
+
+   </div>
+
+   {% include blog_footer %}
+
+    
+   {% include blog_comment %} 
+</body>
+</html> 

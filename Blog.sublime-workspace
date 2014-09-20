@@ -1,0 +1,947 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bl",
+				"bold"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fonty",
+				"font-family"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"let",
+				"left"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"fnt",
+				"font-size"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"MAR",
+				"margin-top"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"impr",
+				"@import	@import url(${0});"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"bld",
+				"bolder"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"pos",
+				"pos	position: ${1:relative};"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fom",
+				"font-family"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"sea",
+				"seajs	seajs"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"border-ri",
+				"border-right"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 169,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 366,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2014-05-29-first-post.html",
+			"settings":
+			{
+				"buffer_size": 247,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 9,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"selected_items":
+		[
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"SET HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"set jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sey html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set  html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set yhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"fj",
+				"Format: Javascript"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 181.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/C/Users/douban/Desktop/欢迎使用 Cmd - 在线 Markdown 编辑阅读器.markdown",
+		"/C/Users/douban/Desktop/欢迎使用 Cmd - 在线 Markdown 编辑阅读器 (1).html",
+		"/E/douban_Study/GitHub/Blog/_site/index.html",
+		"/E/douban_Study/GitHub/NRemedy/index.html",
+		"/E/douban_Study/GitHub/Blog/README.md",
+		"/E/douban_Study/GitHub/Blog/index.html",
+		"/C/Users/douban/Desktop/qdcommon/qdcommon/rightsjs.js",
+		"/C/Users/douban/Desktop/qdcommon/qdcommon/test.html",
+		"/E/douban_Study/GitHub/Blog/_layouts/default.html",
+		"/E/douban_Study/GitHub/NRemedy/_includes/disqus",
+		"/E/douban_Study/GitHub/NRemedy/_config.yml",
+		"/E/douban_Study/GitHub/NRemedy/assert/css/default.css",
+		"/E/douban_Study/GitHub/Blog/end",
+		"/E/douban_Study/GitHub/Blog/readme.txt",
+		"/D/SoftwareInstallation/rubydevkit/config.yml",
+		"/E/douban_Study/GitHub/tpw/_posts/2008-11-17-blogging-like-a-hacker.textile",
+		"/E/豆瓣Demo/5月/20140527/02/aaa.html",
+		"/E/douban_Study/GitHub/Blog/.gitattributes",
+		"/E/豆瓣Demo/5月/20140527/01/mbbHot.js",
+		"/E/豆瓣Demo/5月/20140527/01/男包.html",
+		"/E/douban_Study/GitHub/test/aa.js",
+		"/E/douban_Study/GitHub/Blog/_layouts/aa.txt",
+		"/E/douban_Study/GitHub/test/aa.txt",
+		"/C/Users/douban/Desktop/秒杀接口.txt",
+		"/C/Users/douban/Desktop/aaa.html",
+		"/E/豆瓣Demo/5月/20140526/02/aaa.html",
+		"//192.168.0.66/50share/share/任务目录/201405/官网EDM/优惠券到期提醒/优惠劵_02.html",
+		"/C/Users/douban/Desktop/Html(7)/麦豆抽奖-周年.html",
+		"/E/豆瓣Demo/2013.5开始/4月/20140422/04/mSeckill.js",
+		"/E/豆瓣Demo/2013.5开始/4月/20140422/04/caift2.js",
+		"/D/SVN/www/front-dev/page/shop/woman/trunk/package.json",
+		"/D/SVN/www/front-dev/page/channels/branches/2.0.0/src/page_women.js",
+		"/D/SVN/www/front-dev/page/shop/woman/trunk/Gruntfile.js",
+		"/D/SVN/www/front-dev/page/shop/brands/trunk/src/brands.css",
+		"/D/SVN/www/front-dev/page/shop/woman/trunk/src/woman.css",
+		"/D/SVN/www/front-dev/page/shop/woman/trunk/demo/index.html",
+		"/C/Users/douban/Desktop/windowTest.html",
+		"/E/豆瓣Demo/5月/20140508/02/aa.html",
+		"/D/SVN/www/front-dev/page/shop/brands/trunk/demo/index.html",
+		"/D/SVN/www/front-dev/page/shop/woman/trunk/src/woman.js",
+		"/D/SVN/www/front-dev/page/hot/branches/2.0.0/demo/index.html",
+		"/D/SVN/www/front-dev/mbb-libs/config/branches/2.0.2/src/sea-config.js",
+		"/D/SVN/www/front-dev/page/hot/branches/2.0.0/src/hot.js",
+		"/D/SVN/www/front-dev/mbb-libs/config/branches/2.0.2/Gruntfile.js",
+		"/D/SVN/www/front-dev/mbb-libs/config/branches/2.0.2/package.json",
+		"/D/SVN/www/front-dev/page/hot/branches/2.0.0/Gruntfile.js",
+		"/D/SVN/www/front-dev/mbb-libs/config/trunk/package.json",
+		"/D/SVN/www/front-dev/page/hot/branches/2.0.0/src/hot.css",
+		"/E/douban_Study/网站HTML代码练习/悬浮框插件.html",
+		"/E/douban_Study/网站HTML代码练习/css/reset.css",
+		"/E/douban_Study/网站HTML代码练习/css/floatBox.css",
+		"/D/SoftwareInstallation/wamp/www/index.php",
+		"/D/SVN/www/front-dev/page/hot/branches/2.0.0/package.json",
+		"/D/SVN/www/front-dev/mbb-libs/global/branches/3.0.0/src/config.js",
+		"/C/Users/douban/Desktop/aa.html",
+		"/D/SVN/www/front-dev/mbb-libs/global/branches/3.0.0/src/global.js",
+		"/C/Users/douban/AppData/Roaming/Sublime Text 2/Packages/CSScomb/Default.sublime-keymap",
+		"/C/Users/douban/AppData/Roaming/Sublime Text 2/Packages/CSScomb/CSScomb.sublime-settings",
+		"/D/SoftwareInstallation/wamp/www/douban.php",
+		"/D/SoftwareInstallation/wamp/apps/phpmyadmin3.1.3.1/config.inc.php",
+		"/E/豆瓣Demo/5月/20140505/02/yhj.js",
+		"/E/豆瓣Demo/5月/20140505/04/abc.html",
+		"/E/豆瓣Demo/5月/20140505/03/arf.html",
+		"/E/豆瓣Demo/5月/20140505/01/ss.html",
+		"/E/豆瓣Demo/2014.5开始/5月/20140504/06/5yue.html",
+		"/E/豆瓣Demo/2014.5开始/5月/20140504/05/aa.html",
+		"/E/豆瓣Demo/2014.5开始/5月/20140504/02/qshe.html",
+		"/E/豆瓣Demo/2014.5开始/5月/20140504/01/bjl.html",
+		"//192.168.0.66/50share/share/任务目录/201405/官网活动/代/链接.txt",
+		"/E/豆瓣Demo/4月/20140430/04/五一.html",
+		"/E/豆瓣Demo/4月/20140430/04/aaaa.html",
+		"/E/豆瓣Demo/4月/20140430/03/aaa.html",
+		"/E/豆瓣Demo/4月/20140430/02/aa.html",
+		"/E/豆瓣Demo/4月/20140430/guess.html",
+		"/E/豆瓣Demo/4月/20140429/04/优惠券.html",
+		"/E/douban_Study/页面制作模板案例/手机赢麦豆判断登录.html",
+		"/E/豆瓣Demo/4月/20140429/05/lmzz.html",
+		"/E/豆瓣Demo/4月/20140429/02/app51.html",
+		"/E/豆瓣Demo/4月/20140429/03/a51.html",
+		"/E/豆瓣Demo/4月/20140429/01/aa.html",
+		"/E/豆瓣Demo/4月/20140428/06/2222.html",
+		"/E/豆瓣Demo/4月/20140428/03/ss.html",
+		"/C/Users/douban/Desktop/模板0306/模板/js/item/data.js",
+		"/E/豆瓣Demo/4月/20140428/05/aa.html",
+		"/E/豆瓣Demo/4月/20140428/04/sss.html",
+		"/E/豆瓣Demo/4月/20140428/02/vinhas.js",
+		"/E/豆瓣Demo/4月/20140428/02/AA.html",
+		"/E/豆瓣Demo/4月/20140428/02/aaa.html",
+		"/C/Users/douban/Desktop/seajs-style-master/seajs-style-master/dist/seajs-style.js",
+		"/E/douban_Study/网站HTML代码练习/seajs/plugin-style.js",
+		"/C/Users/douban/Desktop/aaaa.html",
+		"/D/SVN/www/front-dev/mbb-libs/paBase/branches/2.0.0/src/loginGetCoupen/index.js",
+		"/D/SVN/www/front-dev/mbb-libs/paBase/branches/2.0.0/src/paBase.js",
+		"/E/douban_Study/网站HTML代码练习/js/floating.js",
+		"/E/douban_Study/网站HTML代码练习/js/bxslider-debug.js",
+		"/E/豆瓣Demo/3月/20140326/01/seckill.js",
+		"/E/douban_Study/网站HTML代码练习/js/eventstest2.js",
+		"/E/douban_Study/网站HTML代码练习/js/eventstest.js",
+		"/E/豆瓣Demo/4月/20140421/03/免邮.html",
+		"/E/豆瓣Demo/4月/20140421/02/aa.html",
+		"/E/豆瓣Demo/4月/20140421/02/bb.html",
+		"/E/豆瓣Demo/4月/20140421/01/mini.html",
+		"/E/豆瓣Demo/4月/20140421/01/mini-small.html",
+		"/E/豆瓣Demo/4月/20140418/05/tmh.html",
+		"/E/豆瓣Demo/4月/20140418/01/ssss.html",
+		"/E/豆瓣Demo/4月/20140417/03/ssss.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/douban_Study/css3知识点/CSS3选择器--伪类选择器.txt",
+		"/E/豆瓣Demo/3月/20140326/01/app_seckill.js",
+		"/D/SVN/www/front-dev/mod/jquery-plugin/bxslider/3.0/bxslider-debug.js",
+		"/E/豆瓣Demo/4月/20140408/01/改dudu.html",
+		"/E/douban_Study/页面制作模板案例/图片延迟加载/oxlazy.js",
+		"/D/SVN/www/front-dev/page/shop/abroad/trunk/src/abroad.js",
+		"/D/SVN/www/front-dev/page/shop/abroad/trunk/src/saveYourFav.js",
+		"/D/SVN/www/front-dev/page/shop/abroad/trunk/src/imgReady.js",
+		"/D/SVN/www/front-dev/page/hot/branches/2.0.0/src/explosion.css",
+		"/E/douban_Study/css布局练习/css让ul水平显示兼容ie并且去掉li非正常空隙.txt",
+		"/D/SVN/www/front-dev/page/shop/explosion/trunk/src/explosion.js",
+		"/D/SVN/www/front-dev/page/shop/explosion/trunk/src/explosion.css",
+		"/D/SVN/www/front-dev/page/shop/explosion/trunk/demo/index.html",
+		"/D/SVN/www/front-dev/page/Home/branches/4.0.0/src/home.js",
+		"/D/SVN/www/front-dev/page/shop/explosion/trunk/package.json",
+		"/D/SVN/www/front-dev/page/shop/explosion/trunk/.jshintrc",
+		"/C/Users/douban/Desktop/bbb.html",
+		"/C/Users/douban/Desktop/home.html",
+		"/E/豆瓣Demo/3月/20140321/08/dudu.html",
+		"/C/Users/douban/Desktop/tank.js",
+		"/E/豆瓣Demo/3月/20140321/06/aaa.html"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">",
+			"5yue_",
+			"1504009303",
+			"1504009601",
+			"1504009301",
+			"1504009603",
+			"1504009606",
+			"1501008204",
+			"^.{1}",
+			"name",
+			"goods-list",
+			"wm-page-goods",
+			".goods-slider",
+			"wm-bag-brands",
+			"pageBrands",
+			"http://cca.mbaobao.com/static/mod/page/shop/woman/1.0.0/woman.css",
+			"pageBrands",
+			"page-chang-r",
+			"wm-occasion-bar",
+			"page-chang-r",
+			"pager-link",
+			"mbb-slider",
+			"show-inf",
+			"wm-show-l",
+			"html_",
+			"wm-bag-brands",
+			"wm-page-brand",
+			"wm-bag-brands",
+			"wm-page-items",
+			"pageBrands",
+			".brands",
+			".pageBrands",
+			"brands",
+			"\"brands\"",
+			"brands",
+			"../img/",
+			"slider-page",
+			"();",
+			"wm-bag-main",
+			"}\n",
+			"wm-bag-main",
+			"page-chang-r",
+			"../img/",
+			"(../img/",
+			"bgc",
+			"../img/",
+			"comment-control",
+			"show-slider",
+			"top",
+			"top:",
+			"top:-20px;",
+			"20px",
+			"goods-slider",
+			"wm-page-goods",
+			"items_slider_box",
+			"wm-page-goods",
+			"goods-slider",
+			"main-new-slider",
+			"woman-banner-wrap",
+			"banner-slider",
+			"go-banner-slider",
+			"woman-banner-wrap",
+			"wm-page-item",
+			"item-slider.",
+			"wm-page-item",
+			"ul",
+			"wm-page-item",
+			"}\n",
+			"comLeft",
+			"wm-item-pic",
+			"item-pic",
+			"}\n",
+			"wm-occasion-bar",
+			"brands",
+			"}\n",
+			"wm-page-main",
+			"woman-banner-wrap",
+			"                            ",
+			"target=\"_blank\"",
+			"brands",
+			"to-more",
+			"wm-top-name",
+			"wm-page-item",
+			"wm-comment",
+			"wm-occasion-goods",
+			"wm-page-items",
+			"<div class=\"wm-comment",
+			"<i class=\"clip\"></i>",
+			"250x340",
+			"213x302",
+			"包包。",
+			"Selected",
+			"name",
+			"240x240",
+			"occasion-items-m",
+			"Selected",
+			"<strong>￥258",
+			"<strong>",
+			"￥258",
+			"goods",
+			"brands",
+			"/placehold.it/",
+			"/placehold.it/6",
+			"/placehold.it/",
+			"/970x425/",
+			"http://placehold.it",
+			"970x425",
+			";\n",
+			"style=\"background:url(",
+			"img/",
+			"9181",
+			">\n",
+			"</dd>",
+			"<dd>",
+			"missM-wrap",
+			"_getDomain",
+			"m-bar",
+			">\n",
+			"a href=",
+			"^.",
+			"http",
+			"http://coach.mbaobao.com/",
+			"http",
+			"、",
+			"</li>",
+			"<li>",
+			"<a href=\"\">",
+			"class=\"main\""
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			".pageBrands",
+			"\"pageBrands\"",
+			"http://cca.mbaobao.com/mkts/201405/20/woman/",
+			"(http://cca.mbaobao.com/mkts/201405/20/woman/",
+			"http://cca.mbaobao.com/mkts/201405/20/woman/",
+			"woman-banner-wrap",
+			"banner-slider",
+			"go-banner-slider",
+			"data-oxlazy=\"",
+			"http://cca.mbaobao.com/mkts/201405/08/gai/",
+			"10100",
+			"http://cca.mbaobao.com/mbaobao/201404/29/",
+			"8",
+			"http://cca.mbaobao.com/mkts/201404/28/aaa/",
+			"201404/23/gg2/",
+			"top_04.jpg?2014",
+			"width=\"239\"",
+			"239x243",
+			"sj/s2",
+			"data-oxlazy=\"",
+			"http://cca.mbaobao.com/mkts/201403/22/dudu/",
+			"data-oxlazy=\"",
+			"http://cca.mbaobao.com/mkts/201403/21/",
+			"http://cca.mbaobao.com/mkts/201403/18/weix/",
+			"http://cca.mbaobao.com/mkts/201403/17/xx/",
+			"bag_",
+			"http://cca.mbaobao.com/mkts/201403/17/",
+			"abc4",
+			"http://cca.mbaobao.com/mkts/201403/17/",
+			"/cca.mbaobao.com/mbaobao/201403/14/lg/",
+			"http://cca.mbaobao.com/mbaobao/201403/14/lu/",
+			"address-add",
+			"data-oxlazy",
+			"http://cca.mbaobao.com/mkts/201403/08/brands/",
+			"data-oxlazy=\"",
+			".order-list",
+			"/cca.mbaobao.com/mkts/201402/22/mo2/",
+			"xinxin__",
+			"/cca.mbaobao.com/mkts/201402/22/xin2/xinxin",
+			"/cca.mbaobao.com/mkts/201402/22/xin2/",
+			"http://cca.mbaobao.com/mbaobao/201402/22/xin/",
+			"button button-rounded button-flat-primary",
+			"/cca.mbaobao.com/mkts/201402/21/zaoq/",
+			"http://cca.mbaobao.com/edm/201402/21/do/",
+			"/cca.mbaobao.com/mkts/201402/17/abc2/",
+			"data-brandid=",
+			"data-brandid",
+			"data",
+			"http://cca.mbaobao.com/mbaobao/201402/14/zaoq/",
+			"",
+			"http://cca.mbaobao.com/mkts/201402/14/brands",
+			"http://cca.mbaobao.com/mkts/201402/14/brands/",
+			"mbb_template",
+			"/cca.mbaobao.com/mkts/201402/11/newS2/",
+			"",
+			"context",
+			"/cca.mbaobao.com/mkts/201402/11/gb/",
+			"1.5s",
+			"type",
+			"2640",
+			"/cca.mbaobao.com/mbaobao/201401/27/coach/coach2",
+			"",
+			"href=\"#\" id=\"nvman\"",
+			"0214",
+			"",
+			"data-oxlazy",
+			"123",
+			"/cca.mbaobao.com/mkts/201401/20/quanz2/\n/cca.mbaobao.com/mkts/201401/20/quanz2/",
+			"/cca.mbaobao.com/mkts/201401/20/quanz2/\n/cca.mbaobao.com/mkts/201401/20/quanz2/quanz2",
+			"width:126px;",
+			"/cca.mbaobao.com/mkts/201401/20/welf2/welfare2",
+			"data-oxlazy",
+			"/cca.mbaobao.com/mkts/201401/21/fengc/",
+			"/cca.mbaobao.com/mkts/201401/21/chuang/",
+			"",
+			"listTextRoll",
+			"rotate",
+			"myfirst_01",
+			"myfirst",
+			"myfirst_01",
+			"data-oxlazy=",
+			"_name_04",
+			"_http_04",
+			"_name_03",
+			"_http_03",
+			"_name_02",
+			"_http_02",
+			"_http_01",
+			"_name_01",
+			"http_03"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2014-05-29-first-post.html",
+					"settings":
+					{
+						"buffer_size": 247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/douban_Study/GitHub/Blog/Blog.sublime-project"
+			],
+			[
+				"h",
+				"/D/SVN/www/front-dev/page/Home/home.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 131.0,
+	"status_bar_visible": false
+}

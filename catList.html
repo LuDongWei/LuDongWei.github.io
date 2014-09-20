@@ -1,0 +1,21 @@
+---
+layout: list
+title: 陆栋伟-博客站
+description: 类型列表页
+isHome: true
+---
+
+<div class="bg-listPage">
+     <ul>
+     	{% for cat in site.categories %}
+        <li id="{{ cat[0] }}" name="{{ cat[0] }}">
+          <dl>
+             <dt>{{ cat[0] }}</dt>
+             {% for post in cat[1] %}
+             <dd><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></dd>
+             {% endfor %}
+           </dl> 
+        </li>
+        {% endfor %}
+     </ul>        	
+</div>

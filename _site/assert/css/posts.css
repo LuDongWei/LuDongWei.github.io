@@ -1,0 +1,90 @@
+/*--文章--*/
+.bg-content{
+
+}
+.bg-content .bg-blog{
+
+}
+.bg-blog .bb-head{
+
+}
+.bb-head .b-title{
+	height:50px;
+	line-height:50px;
+	font-size:30px;
+	border-bottom:1px solid #000000;
+	overflow:hidden;
+}
+.b-title h1{
+	float:left;
+}
+.b-title a{
+	float:right;
+	width:50px;
+	height:50px;
+	background-color:#3ED4E5;
+}
+.bb-head .b-inf{
+	line-height:26px;
+	font-size:14px;
+}
+.b-inf .time{
+
+}
+.bg-blog .bb-synopsis{
+	width:60%;
+	margin:10px auto;
+	line-height:18px;
+	font-size:12px;
+	font-weight:bolder;
+}
+.bg-blog .bb-post{
+	line-height:20px;
+}
+.bg-blog .bb-share{
+	overflow:hidden;
+	margin-top:10px;
+}
+.bb-share .jiathis_style{
+	width:170px;
+	float:right;
+}
+.bg-blog .bb-tags{
+	margin-top:10px;
+}
+.bb-tags ul{
+	overflow:hidden;
+}
+.bb-tags ul li{
+    display:inline-block;
+	float:left;
+	*display:inline;
+	*zoom:1;
+	height:20px;
+	line-height:20px;
+	font-size:14px;
+	font-weight:bolder;
+	text-align:center;
+	margin-left:5px;
+	background-color:#777777;
+}
+.bb-tags ul li a{
+	padding:0px 6px 0px 6px;
+	text-align:center;
+	margin-right:0px; 
+	color:#ffffff;
+}
+.bg-blog .bb-page{
+	margin-top:15px;
+	overflow:hidden;
+}
+.bb-page .go-left:hover,.bb-page .go-right:hover{
+	text-decoration:underline;
+}
+.bb-page .go-left{
+	float:left;
+}
+.bb-page .go-right{
+	float:right;
+}
+

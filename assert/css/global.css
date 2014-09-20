@@ -1,0 +1,210 @@
+/*--全局样式--*/
+body{
+	background-color:#eeeeee;
+	font-family:"Georgia, serif";
+	letter-spacing: -0.01em;
+    word-spacing: 0.2em;
+}
+
+/*--头部--*/ 
+.bg-head{
+	height:40px;
+	line-height:40px;
+	background-color:#333333;
+}
+.bg-head .he-main{
+	max-width:960px;
+	width:100%;
+	margin:0 auto;
+	overflow:hidden;
+}
+.he-main .he-left{
+	float:left;
+	position:relative;
+}
+.he-left .logo{
+	width:160px;
+	height:40px;
+	text-align:center;
+	font-size:24px;
+	color:#ffffff;
+	background-color:#999999;
+	cursor:pointer;
+}
+.he-left .logo{
+
+}
+.he-left .location-list{
+	background-color:#666666;
+	text-align:center;
+	width:100%;
+	display:none;
+}
+.location-list ul{
+
+}
+.location-list ul li{
+    
+}
+.location-list  li a{
+	line-height:40px;
+	font-size:20px;
+	color:#ffffff;
+}
+.he-main .he-right{
+	float:left;
+}
+.he-right .location{
+	width:560px;
+	overflow:hidden;
+}
+.location a{
+	display:block;
+	width:140px;
+	height:40px;
+	line-height:40px;
+	font-size:20px;
+	float:left;
+	text-align:center;
+	color:#ffffff;
+}
+.location a:hover{
+	/*background-color:#595858;*/
+	color:#999999;
+}
+.bg-main{
+	max-width:960px;
+	margin:0 auto;
+}
+.bg-main .bg-content{
+	margin:0px 10px 0px 180px;
+	*margin:0px 10px 0px 20px;
+	background-color:#ffffff;
+	padding:10px;
+}
+
+/*--左边悬浮--*/
+.bg-main .bg-list{
+	width:160px;
+}
+
+.bg-list .bg-side{
+	width:160px;
+	background-color:#999999;
+	position:fixed;
+	top:0px;
+}
+
+.bg-side .li-head{
+	background-color:#666666;
+	padding-bottom:10px;
+}
+.li-head a{
+   display:block;	 
+   width:140px;
+   padding:10px;  
+}
+.li-head .gnosis{
+
+}
+.gnosis p{
+	height:20px;
+	line-height:20px;
+	text-align:center;
+	font-size:14px;
+	color:#aaaaaa;
+	cursor:pointer; 
+}
+.bg-side .class-list{
+	padding-bottom:40px;
+}
+.class-list ul{
+	
+}
+.class-list ul li{
+	
+}
+.class-list li a{	
+	display:block;
+	width:148px;
+	text-align:center;
+	height:29px;
+	line-height:29px;
+	font-size:18px;
+	font-weight:bolder;
+	margin:0 auto;
+	border-bottom:1px solid #999999;
+	color:#ffffff;
+}
+.class-list li a:hover{
+    border-bottom:1px solid #000000;
+}
+.bg-side .qr-code{
+	
+}
+.qr-code .code{
+    width:140px;
+    padding:10px 10px 10px 10px;	
+}
+
+/*--评论--*/
+.bg-comment{
+
+}
+.bg-comment h1{
+	margin-top:20px;
+	font-size:20px;
+    line-height:30px;	
+}
+
+
+/*--底部信息--*/
+.bg-foot{
+	max-width:960px;
+	margin:0 auto;
+}
+.bg-foot .f-content{
+	border-top:1px dotted #000000; 
+	font-size:14px;
+	line-height:30px;
+	overflow:hidden;
+    margin:40px 10px 0px 180px;
+}
+.f-content .f-thank{
+	float:left;
+}
+.f-content .f-contact{
+	float:right;
+}
+
+/*--小于960px--*/
+@media screen and (max-width:960px) {
+    .he-main .he-left{
+       display:none;    	
+    }
+    .bg-main .bg-list{
+       display:none;
+    }
+    .bg-main .bg-content{
+    	margin:0px 10px 0px 10px;
+    }
+    .bg-foot .f-content{
+    	margin:40px 10px 0px 10px;
+    }
+    .f-content .f-thank{
+    	width:100%
+    }
+    .f-content .f-contact{
+    	width:100%
+    }
+}
+
+/*--小于560px--*/
+@media screen and (max-width:560px) {
+    .he-main .he-left{
+       display:block;	
+    }
+    .he-main .he-right{
+       display:none;    	
+    }
+}

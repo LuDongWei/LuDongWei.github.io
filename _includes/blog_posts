@@ -1,0 +1,56 @@
+ <article class="bg-blog">
+              <header class="bb-head">
+                   <div class="b-title">
+                        <h1>
+                            {{ page.title }}
+                        </h1>
+                        <a href="{{ site.baseurl }}/catList.html#{{ page.categories }}">
+                           <img src="{{ site.baseurl }}/assert/img/logo/{{ page.logo }}" width="50" height="50">
+                        </a> 
+                   </div>
+                   <div class="b-inf">
+                        <p class="time">time:2014-10-12</p> 
+                   </div>
+              </header>
+
+               <div class="bb-synopsis">
+                    {{ page.description }} 
+               </div>
+
+               <div class="bb-post">
+                    {{ content }}
+               </div>
+               
+               <div class="bb-share">
+                    <!-- JiaThis Button BEGIN -->
+                    <div class="jiathis_style">
+                    <a class="jiathis_button_qzone"></a>
+                    <a class="jiathis_button_tsina"></a>
+                    <a class="jiathis_button_tqq"></a>
+                    <a class="jiathis_button_weixin"></a>
+                    <a class="jiathis_button_renren"></a>
+                    <a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+                    <a class="jiathis_counter_style"></a>
+                    </div>
+                    <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1400481562960446" charset="utf-8"></script>
+                    <!-- JiaThis Button END -->
+               </div> 
+
+
+               <div class="bb-tags">
+                    <ul>
+                     {% for tag in page.tags %}
+                     <li><a href="{{ site.baseurl }}/tagList.html#{{ tag }}">{{ tag }}</a></li>
+                     {% endfor %}
+                    </ul>
+               </div>
+
+               <div class="bb-page">
+                  {% if page.previous %}
+                    <a href="{{ site.baseurl }}{{ page.previous.url  }}" class="go-left">上一页：{{ page.previous.title }}</a>
+                  {% endif %}
+                  {% if page.next %}  
+                    <a href="{{ site.baseurl }}{{ page.next.url  }}" class="go-right">下一页：{{ page.next.title }}</a>
+                  {% endif %}  
+               </div>  
+</article>

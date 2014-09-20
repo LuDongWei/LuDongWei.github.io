@@ -1,0 +1,41 @@
+---
+layout: blog
+title: 陆栋伟-博客站
+description: 首页
+isHome: true
+---
+
+<div class="bg-article">
+     <h1>最新文章:</h1>
+         <section class="article-list">
+         {% for post in site.posts limit:3 %}	
+        	<article class="node-blog" >
+                 <header class="nd-head">
+                      <div class="h-kind">
+                        <a href="{{ site.baseurl }}/catList.html#{{ post.categories }}"> 
+                         <img src='{{ site.baseurl }}/assert/img/logo/{{ post.logo }}' width="50" height="50"> 
+                        </a> 
+                      </div>
+                      <div class="h-inf">
+                          <a href="{{ site.baseurl }}{{ post.url }}" class="i-name">{{ post.title }}</a>
+                          <p class="i-time"><span>Date:</span>{{ post.date | date: "%Y %b %d" }}</p> 
+                      </div>  
+                 </header>
+                 <div class="nd-synopsis">
+                    {{ post.description }} 
+                 </div>
+                 <footer class="nd-foot">                            
+                     <div class="f-tags">
+                         <ul>
+                            {% for tag in post.tags %}
+                               <li><a href="{{ site.baseurl }}/tagList.html#{{ tag }}">{{ tag }}</a></li>
+                            {% endfor %}    
+                         </ul>
+                     </div>
+                     <a href="{{ site.baseurl }}{{ post.url }}">阅读全文</a> 
+                 </footer>      
+            </article> 
+         {% endfor %}             
+       </section>
+</div>
+
