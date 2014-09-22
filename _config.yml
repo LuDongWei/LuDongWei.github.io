@@ -1,4 +1,4 @@
 baseurl: 
 production_url: http://www.ludongwei.com
 markdown: kramdown
-highlighter: pygments 
+pygments: true
