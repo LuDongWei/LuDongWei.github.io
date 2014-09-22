@@ -13,10 +13,6 @@
                    </div>
               </header>
 
-               <div class="bb-synopsis">
-                    {{ page.description }} 
-               </div>
-
                <div class="bb-post">
                     {{ content }}
                </div>

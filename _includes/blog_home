@@ -13,6 +13,7 @@
 	  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assert/css/default.css">
 
     <link rel="stylesheet" href="{{ site.baseurl }}/assert/css/global.css" media="screen">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assert/css/code.css" media="screen">
     {% if page.isHome  %}
        <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assert/css/home.css">
     {%  else %}

@@ -177,6 +177,17 @@ body{
 	float:right;
 }
 
+/*--code--*/
+.highlight{
+	background-color:#ffffff;
+}
+pre{
+   background-color:#272822;	
+   padding:10px 15px;
+   margin-top: 5px; 
+}
+
+
 /*--小于960px--*/
 @media screen and (max-width:960px) {
     .he-main .he-left{
