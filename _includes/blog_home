@@ -10,7 +10,10 @@
     <title>{{ page.title }} - {{ page.description }}</title>
     <link href="{{ site.baseurl }}/assert/img/favicon.ico"  rel="bookmark" type="image/x-icon" />
     <link href="{{ site.baseurl }}/assert/img/favicon.ico"  rel="shortcut icon" type="image/x-icon" /> 
+
 	  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assert/css/default.css">
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assert/css/typo.css">
 
     <link rel="stylesheet" href="{{ site.baseurl }}/assert/css/global.css" media="screen">
     <link rel="stylesheet" href="{{ site.baseurl }}/assert/css/code.css" media="screen">

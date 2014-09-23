@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
 
-    <title>css布局练习 - </title>
+    <title>markdown使用测试 - </title>
     <link href="/assert/img/favicon.ico"  rel="bookmark" type="image/x-icon" />
     <link href="/assert/img/favicon.ico"  rel="shortcut icon" type="image/x-icon" /> 
 
@@ -102,7 +102,7 @@
                 </nav> 
               <footer class="qr-code">
                   <div class="code">
-                     <img src="http://qr.liantu.com/api.php?text=http://ludongwei.github.io/css/2014/09/22/css-layout.html" width="140" height="140"> 
+                     <img src="http://qr.liantu.com/api.php?text=http://ludongwei.github.io/html/2014/09/23/markdown.html" width="140" height="140"> 
                   </div>
               </footer>
          </aside>
@@ -113,10 +113,10 @@
               <header class="bb-head">
                    <div class="b-title">
                         <h1>
-                            css布局练习
+                            markdown使用测试
                         </h1>
-                        <a href="/catList.html#css">
-                           <img src="/assert/img/logo/css.png" width="50" height="50">
+                        <a href="/catList.html#html">
+                           <img src="/assert/img/logo/html.png" width="50" height="50">
                         </a> 
                    </div>
                    <div class="b-inf">
@@ -125,7 +125,90 @@
               </header>
 
                <div class="bb-post typo">
-                    
+                    <h2 id="section">标题设置</h2>
+<ul>
+  <li>通过在文字下方添加“=”和“-”，他们分别表示一级标题和二级标题。</li>
+  <li>在文字开头加上 “#”，通过“#”数量表示几级标题。（一共只有1~6级标题，1级标题字体最大）</li>
+</ul>
+
+<h2 id="section-1">块注释</h2>
+<p>通过在文字开头添加“&gt;”表示块注释。（当&gt;和文字之间添加五个blank时，块注释的文字会有变化。）</p>
+
+<blockquote>
+  <p>例子例子例子例子例子</p>
+
+  <p>例子例子例子例子例子</p>
+
+  <p>例子例子例子例子例子</p>
+</blockquote>
+
+<h2 id="section-2">斜体和粗体</h2>
+<ul>
+  <li>斜体：文字两端使用1个“<em>”或者“_”夹起来  *例子</em></li>
+  <li>粗体：文字两端使用2个“*”或者“_”夹起来  <strong>例子</strong></li>
+</ul>
+
+<h2 id="section-3">有序和无序列表</h2>
+<ul>
+  <li>有序列表：文字开头添加（*,+,-） <strong>文字之间必须添加空格</strong></li>
+  <li>无序列表: 使用数字后面跟上句号  <strong>还是要空格</strong></li>
+</ul>
+
+<h2 id="section-4">链接</h2>
+<ul>
+  <li>内嵌方式：this is <a href="http://www.baidu.com">baidu</a></li>
+  <li>引用方式：I get 10 times more traffic from <a href="http://google.com/" title="Google">Google</a> than from <a href="http://search.yahoo.com/" title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search">MSN</a>.  </li>
+</ul>
+
+<h2 id="section-5">图片</h2>
+<ul>
+  <li>内嵌方式：<img src="/assert/img/loading.gif" alt="loading" /></li>
+  <li>引用方式：<img src="/assert/img/loading.gif" alt="loading" title="ttt" /></li>
+</ul>
+
+<h2 id="section-6">代码</h2>
+<ul>
+  <li>使用``来标注内容。例子：<code>&lt;blockquote&gt;</code></li>
+  <li>大面积的文字需要时间代码框。 使用Tab和四个空格	</li>
+</ul>
+
+<p>代码例子</p>
+
+<pre><code>pingbbb
+pingbbb
+pingbbb
+</code></pre>
+
+<h2 id="section-7">脚注</h2>
+<p>实现方式 百度<sup id="fnref:baidu"><a href="#fn:baidu" class="footnote">1</a></sup>    </p>
+
+<h2 id="section-8">下划线</h2>
+<hr />
+<hr />
+<hr />
+
+<h2 id="highlight">highlight</h2>
+<p>代码高亮</p>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;style </span><span class="na">type=</span><span class="s">&quot;text/css&quot;</span><span class="nt">&gt;</span>
+<span class="nt">body</span><span class="p">{</span>
+	<span class="k">background-color</span><span class="o">:</span><span class="m">#ffffff</span><span class="p">;</span>
+<span class="p">}</span>  	
+<span class="nt">&lt;/style&gt;</span>
+
+<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;class&quot;</span><span class="nt">&gt;&lt;/div&gt;</span>
+
+<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">&quot;text/javascript&quot;</span><span class="nt">&gt;</span>
+	<span class="kd">var</span> <span class="nx">abc</span><span class="o">=</span><span class="s1">&#39;123&#39;</span>
+<span class="nt">&lt;/script&gt;</span></code></pre></div>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:baidu">
+      <p>http://www.baidu.com     <a href="#fnref:baidu" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
                </div>
                
@@ -148,19 +231,17 @@
                <div class="bb-tags">
                     <ul>
                      
-                     <li><a href="/tagList.html#css">css</a></li>
+                     <li><a href="/tagList.html#html">html</a></li>
                      
-                     <li><a href="/tagList.html#layout">layout</a></li>
-                     
-                     <li><a href="/tagList.html#box">box</a></li>
+                     <li><a href="/tagList.html#Markdown">Markdown</a></li>
                      
                     </ul>
                </div>
 
                <div class="bb-page">
                   
-                    
-                    <a href="/life/2014/09/22/my-life.html" class="go-right">下一页：博客随记</a>
+                    <a href="/html/2014/09/22/test.html" class="go-left">上一页：this is test</a>
+                  
                     
                </div>  
 </article>

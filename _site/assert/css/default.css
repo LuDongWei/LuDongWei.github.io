@@ -37,7 +37,7 @@ ul, ol { list-style: none; }
 
 /* 重置文本格式元素 */
 a { text-decoration: none; }
-a:hover { text-decoration: underline; }
+/*a:hover { text-decoration: underline; }*/
 
 abbr[title], acronym[title] { /* 注：1.ie6 不支持 abbr; 2.这里用了属性选择符，ie6 下无效果 */
     border-bottom: 1px dotted;
@@ -81,9 +81,4 @@ html { overflow-y: scroll; }
     zoom: 1;
 }
 
-/*--全局a标签--*/
-a:link{color:#333; text-decoration:none;}/*链接样式*/
-a:visited {color:#333; text-decoration:none;}/*访问后的样式*/
-a:hover{color:#000; text-decoration:none;}/*鼠标滑过样式*/
-a:active{}/*激活样式，没什么表现*/
 

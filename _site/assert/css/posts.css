@@ -34,6 +34,9 @@
 .bg-blog .bb-post{
 	line-height:20px;
 }
+.bg-blog .bb-post p{
+	line-height:26px;
+}
 .bg-blog .bb-share{
 	overflow:hidden;
 	margin-top:10px;
