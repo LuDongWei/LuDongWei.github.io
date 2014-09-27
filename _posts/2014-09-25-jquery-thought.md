@@ -3,7 +3,7 @@ layout: blog
 title: jQuery设计思想
 categories: [jquery]
 logo: jquery.png 
-tags: [jquery]
+tags: [jquery,thougth]
 ---
 
 [jQuery](http://jquery.com/)应该算是工作中最常用的javascript函数库。
