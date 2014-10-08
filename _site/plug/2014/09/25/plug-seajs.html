@@ -104,6 +104,10 @@
                            <li>
                              <a href="/catList.html#plug">plug</a>  
                            </li>
+                         
+                           <li>
+                             <a href="/catList.html#web">web</a>  
+                           </li>
                                                  
                        </ul>
                 </nav> 
@@ -182,7 +186,8 @@
 
              <span class="nx">data</span><span class="p">.</span><span class="nx">push</span><span class="p">(</span><span class="nx">opts</span><span class="p">)</span>
              <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span>   
-             <span class="c1">//!! 输出，2次输出相同的结果。但是如果打断点的话输出结果会不相同，原因 console.log 不能</span>
+             <span class="c1">//!! 输出，2次输出相同的结果。但是如果打断点的话输出结果会不相同</span>
+               <span class="err">原因</span> <span class="nx">console</span><span class="p">.</span><span class="nx">log</span> <span class="err">不能</span><span class="p">...</span>
  
                                                               
              <span class="nx">opts</span><span class="p">.</span><span class="nx">onEnd</span><span class="p">(</span><span class="s2">&quot;a&quot;</span><span class="p">,</span><span class="s2">&quot;b&quot;</span><span class="p">);</span>   <span class="c1">//输出 </span>
@@ -219,7 +224,7 @@
 <h2 id="section">预加载</h2>
 
 <div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">require</span><span class="p">.</span><span class="nx">async</span><span class="p">(</span><span class="s1">&#39;jquery-plugin/simplemodal/1.4.4/simplemodal&#39;</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">simplemodal</span><span class="p">){</span>
-           <span class="nx">simplemodal</span><span class="p">(</span><span class="nx">$</span><span class="p">);</span>
+           <span class="nx">simplemodal</span><span class="p">(</span><span class="nx">$</span><span class="p">);</span>  <span class="c1">//加载不影响主页面程序</span>
 <span class="p">})</span></code></pre></div>
 
 
@@ -255,6 +260,8 @@
                   
                     <a href="/jquery/2014/09/25/jquery-thought.html" class="go-left">上一页：jQuery设计思想</a>
                   
+                    
+                    <a href="/life/2014/10/07/waste-life.html" class="go-right">下一页：不再虚度光阴</a>
                     
                </div>  
 </article>
