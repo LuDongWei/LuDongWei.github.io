@@ -1,128 +1,226 @@
-/*--首页--*/
-/*--内容--*/
-.bg-content{
-
+/* --首页-- */
+/* --内容-- */
+.bg-content {
 }
-.bg-content .bg-article{
-	
+.bg-content .bg-article {
 }
-.bg-article h1{
-     font-size:20px;
-     line-height:30px;	
+.bg-article h1 {
+	font-size: 20px;
+	line-height: 30px;
 }
-.bg-article .article-list{
-	
+.bg-article .article-list {
 }
-.article-list .node-blog{
-     width:98%;
-     margin:0 auto;
-     padding:15px 0px 15px 0px;
-     border-bottom:1px solid #000000;	
+.article-list .node-blog {
+	width: 98%;
+	margin: 0 auto;
+	padding: 15px 0px 15px 0px;
+	border-bottom: 1px solid #000000;
 }
-.node-blog .nd-head{
-	 overflow:hidden;
+.node-blog .nd-head {
+	overflow: hidden;
 }
-.nd-head .h-kind{
-	 width:50px;
-	 height:50px;
-     float:left;
-     background-color:#3ED4E5;      	
+.nd-head .h-kind {
+	width: 50px;
+	height: 50px;
+	float: left;
+	background-color: #3ED4E5;
 }
-.nd-head .h-inf{
-	 padding-left:5px;
-	 float:left;
+.nd-head .h-inf {
+	padding-left: 5px;
+	float: left;
 }
-.h-inf .i-name{
-	font-family:"微软雅黑";
-	font-size:22px;
-	line-height:30px;
-	color:#000000;
+.h-inf .i-name {
+	font-family: "微软雅黑";
+	font-size: 22px;
+	line-height: 30px;
+	color: #000000;
 }
-.h-inf .i-time{
-	font-size:14px;
-	line-height:20px;
+.h-inf .i-time {
+	font-size: 14px;
+	line-height: 20px;
 }
-.i-time span{
- 
+.i-time span {
 }
-.node-blog .nd-synopsis{
-	 width:96%;
-	 font-size:12px;
-	 line-height:18px;
-	 padding:5px 0px 5px 0px;
-	 color:#333333;
+.node-blog .nd-synopsis {
+	width: 96%;
+	font-size: 12px;
+	line-height: 18px;
+	padding: 5px 0px 5px 0px;
+	color: #333333;
 }
-.node-blog .nd-foot{
-	 overflow:hidden;
+.node-blog .nd-foot {
+	overflow: hidden;
 }
-.nd-foot .f-tags{
-	 float:left;
+.nd-foot .f-tags {
+	float: left;
 }
-.f-tags ul{
-	overflow:hidden;
+.f-tags ul {
+	overflow: hidden;
 }
-.f-tags ul li{
-	display:inline-block;
-	float:left;
-	*display:inline;
-	*zoom:1;
-	height:20px;
-	line-height:20px;
-	font-size:14px;
-	font-weight:bolder;
-	text-align:center;
-	margin-left:5px;
-	color:#ffffff;
-	background-color:#777777;
+.f-tags ul li {
+	display: inline-block;
+	float: left;
+	*display: inline;
+	*zoom: 1;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: bolder;
+	text-align: center;
+	margin-left: 5px;
+	color: #ffffff;
+	background-color: #777777;
 }
-.f-tags ul li a{
-	padding:0px 6px 0px 6px;
-	text-align:center;
-	margin-right:0px; 
-	color:#ffffff;
+.f-tags ul li a {
+	padding: 0px 6px 0px 6px;
+	text-align: center;
+	margin-right: 0px;
+	color: #ffffff;
 }
-.nd-foot a{
-	 height:20px;
-	 line-height:20px;
-	 margin-right:8%;
-	 float:right;
-	 color:#666666;
+.nd-foot a {
+	height: 20px;
+	line-height: 20px;
+	margin-right: 8%;
+	float: right;
+	color: #666666;
 }
-.nd-foot a:hover{
-	text-decoration:underline;
+.nd-foot a:hover {
+	text-decoration: underline;
 }
-.bg-content .bg-comment{
-	
-}
-/*--列表--*/
-.bg-content .bg-listPage{
-	margin:0 auto;
-	text-align:left;
-	font-family:"微软雅黑";
-}
-.bg-listPage ul{
-
-}
-.bg-listPage ul li{
-	padding-bottom:10px;
-	border-bottom:1px solid #000000;
-}
-.bg-listPage dl{
-
-}
-.bg-listPage dl dt{
-    font-size:34px;
-    line-height:40px;
-    color:#222222;	
-}
-.bg-listPage dl dd{
-	font-size:16px;
-	line-height:25px;
-}
-.bg-listPage dl dd a{
-	color:#111111;
-}
-.bg-listPage dl dd a:hover{
-	text-decoration:underline;
+.bg-content .bg-comment {
 }
 
+/* --列表-- */
+.bg-content .bg-listPage {
+	margin: 0 auto;
+	text-align: left;
+	font-family: "微软雅黑";
+}
+.bg-listPage ul {
+}
+.bg-listPage ul li {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #000000;
+}
+.bg-listPage dl {
+}
+.bg-listPage dl dt {
+	font-size: 34px;
+	line-height: 40px;
+	color: #222222;
+}
+.bg-listPage dl dd {
+	font-size: 16px;
+	line-height: 25px;
+}
+.bg-listPage dl dd a {
+	color: #111111;
+}
+.bg-listPage dl dd a:hover {
+	text-decoration: underline;
+}
+
+/* --自我介绍页面-- */
+@font-face {
+	font-family: 'iconfont';
+	src: url('http://at.alicdn.com/t/font_1412772713_9624295.eot'); /* IE9 */
+	src: url('http://at.alicdn.com/t/font_1412772713_9624295.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('http://at.alicdn.com/t/font_1412772713_9624295.woff') format('woff'), /* chrome、firefox */
+	url('http://at.alicdn.com/t/font_1412772713_9624295.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+	url('http://at.alicdn.com/t/font_1412772713_9624295.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+.iconfont {
+	font-family: "iconfont";
+	font-size: 16px;
+	font-style: normal;
+}
+.bg-me {
+}
+.bg-me .me-introduce {
+	padding-bottom: 0px;
+	border-bottom: 1px dashed #000000;
+}
+.me-introduce .container {
+	overflow: hidden;
+}
+.me-introduce .int-left {
+	float: left;
+	padding: 2%;
+	width: 31%;
+}
+.int-left .me-head {
+}
+.int-left .me-contact {
+}
+.me-contact .account-link {
+	overflow: hidden;
+	width: 146px;
+	margin: 0 auto;
+}
+.me-contact .account-link li {
+	float: left;
+	padding: 5px 10px;
+}
+.account-link li a {
+	color: #000000;
+}
+.me-introduce .int-right {
+	float: right;
+	padding: 2%;
+	width: 61%;
+}
+.int-right .me-inf {
+}
+.me-inf .basic {
+}
+.me-inf .profession {
+	margin-top: 10px;
+}
+.me-inf .basic dt, .me-inf .profession dt {
+	font-weight: bolder;
+}
+.bg-me .me-books {
+	padding: 10px;
+}
+.me-books .container {
+}
+.me-books h3 {
+	text-align: center;
+	font-size: 18px;
+	font-weight: bolder;
+}
+.me-books .books {
+	margin: 20px 0px 5px 0px;
+}
+.books dt {
+	font-size: 20px;
+	background: #fcfcfc;
+	padding: 15px 0px 15px 15px;
+	border-left: 5px solid #eee;
+}
+.books dd {
+	padding: 5px;
+}
+.books dd h4 a {
+	color: #000000;
+}
+.books dd p {
+	padding-left: 28px;
+	font-size: 14px;
+	color: #999999;
+}
+
+/* --小于560px-- */
+@media screen and (max-width:560px) {
+	.bg-me .me-introduce {
+		padding-bottom: 10px;
+	}
+	.me-introduce .int-left {
+		width: 100%;
+		padding: 0%;
+	}
+	.me-introduce .int-right {
+		width: 100%;
+		padding: 0%;
+	}
+}
